@@ -23,13 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://coursera.org/share/913e3402dfe74a4c783672f15ea2a42f
+- certificate_url: https://coursera.org/verify/TVJTKZDUYDU7
   date_end: ""
   date_start: "2020-12-05"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
   title: "C ++ Development Fundamentals: White Belt"
+  url: "https://www.coursera.org/learn/c-plus-plus-white"
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/RLVUEDPEUBRQ
+  date_end: ""
+  date_start: "2021-01-27"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: "C ++ Development Fundamentals: Yellow Belt"
   url: "https://www.coursera.org/learn/c-plus-plus-white"
 # - certificate_url: https://www.edx.org
 #   date_end: ""

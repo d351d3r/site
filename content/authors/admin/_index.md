@@ -32,7 +32,7 @@ education:
   # - course: MEng in Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   year: 2009
-  - course: BScin Infocommunication technologies and communication systems,
+  - course: BScin Infocommunication technologies and communication systems
     institution: DVGUPS, Russia
     year: since 2019 to present
 
@@ -67,7 +67,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: https://github.com/d351d3r/CV/raw/master/Cherednichenko%20CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "greatestcombinator@gmail.com"
@@ -76,6 +76,6 @@ email: "greatestcombinator@gmail.com"
 highlight_name: false
 ---
 
-I am Anatolii, Backend, ML developer. I live and work in Russia, Khabarovsk. I have been working in IT for over 3 years. I love technology, programming and I love creating awesome products. I am fascinated by cryptography, open source, cryptocurrencies and fintech.
+I am Anatolii, Backend, ML developer. I live and work in Russia, Khabarovsk. I have been working in IT for over 3 years. I like technology, programming and I love creating awesome products. I am fascinated by cryptography, open source, cryptocurrencies and fintech.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/d351d3r/CV/raw/master/Cherednichenko%20CV.pdf" "newtab" >}}resume{{< /staticref >}}.
