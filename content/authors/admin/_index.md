@@ -44,7 +44,7 @@ social:
 - icon: envelope
   icon_pack: fas
   # link: '/#contact'
-  link: 'mailto:greatestcombinator@gmail.com'
+  link: 'mailto:anatolii.cherednichenko2001@gmail.com'
 - icon: telegram
   icon_pack: fab
   link: https://t.me/d351d3r
@@ -54,7 +54,7 @@ social:
   link: https://github.com/d351d3r
 - icon: git-alt
   icon_pack: fab
-  link: https://git.desidesoft.dev/
+  link: https://git.stdmatrix.xyz/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/anatolii-cherednichenko/
@@ -67,10 +67,10 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://github.com/d351d3r/CV/raw/master/Cherednichenko%20CV.pdf
+  link: https://github.com/d351d3r/CV/raw/master/cvcherednichenko.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "greatestcombinator@gmail.com"
+email: "anatolii.cherednichenko2001@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

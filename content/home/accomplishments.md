@@ -39,6 +39,23 @@ item:
   organization_url: https://www.coursera.org
   title: "C ++ Development Fundamentals: Yellow Belt"
   url: "https://www.coursera.org/learn/c-plus-plus-white"
+
+- certificate_url: https://stepik.org/cert/887425
+  date_end: ""
+  date_start: "2021-02-05"
+  description: ""
+  organization: Stepik
+  organization_url: https://www.stepik.org
+  title: "Programming in Python"
+  url: "https://stepik.org/course/67"
+- certificate_url: https://github.com/d351d3r/site/static/media/ml_itmo_cert.pdf
+  date_end: ""
+  date_start: "2021-04-01"
+  description: ""
+  organization: ITMO University
+  organization_url: https://itmo.ru
+  title: "Machine learning: from basic concepts to solving non-standard problems"
+  url: ""
 # - certificate_url: https://www.edx.org
 #   date_end: ""
 #   date_start: "2018-03-01"
