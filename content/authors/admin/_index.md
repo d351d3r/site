@@ -78,4 +78,4 @@ highlight_name: false
 
 I am Anatolii, Backend, ML developer. I live and work in Russia, Khabarovsk. I have been working in IT for over 3 years. I like technology, programming and I love creating awesome products. I am fascinated by cryptography, open source, cryptocurrencies and fintech.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/d351d3r/CV/raw/master/Cherednichenko%20CV.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/d351d3r/CV/raw/master/cvcherednichenko.pdf" "newtab" >}}resume{{< /staticref >}}.
