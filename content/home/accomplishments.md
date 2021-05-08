@@ -48,7 +48,7 @@ item:
   organization_url: https://www.stepik.org
   title: "Programming in Python"
   url: "https://stepik.org/course/67"
-- certificate_url: https://github.com/d351d3r/site/static/media/ml_itmo_cert.pdf
+- certificate_url: https://github.com/d351d3r/site/raw/master/static/media/ml_itmo_cert.pdf
   date_end: ""
   date_start: "2021-04-01"
   description: ""
